@@ -11,5 +11,7 @@ public class GitupApplication {
 		SpringApplication.run(GitupApplication.class, args);
 	}
 
-
+	public void aa(){
+    System.out.println("bb");
+  }
 }
