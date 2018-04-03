@@ -10,4 +10,8 @@ public class GitupApplication {
 		System.out.println("aaaa");
 		SpringApplication.run(GitupApplication.class, args);
 	}
+
+	public void aa(){
+    System.out.println("bb");
+  }
 }
